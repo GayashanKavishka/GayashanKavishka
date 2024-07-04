@@ -1,8 +1,9 @@
 
+![79731568097599(1) 5b50bca477735](https://github.com/GayashanKavishka/GayashanKavishka/assets/167881650/bb9ffb23-c547-4f7d-8574-9df2058d4f07)
 
-<p><img align="center" src ="https://github.com/GayashanKavishka/GayashanKavishka/assets/167881650/07485612-cecb-44be-9207-a3f3d709e8f5" width = "100px" height = "100px"></p>
 <h1 align="center">Hi 👋, I'm Kavishka Gayashan</h1>
 <h3 align="center">Computer Science & Engineering Student | IT Passioned👨🏻‍💻🖥️📱💻 | Sri Lanka 🇱🇰</h3>
+<img src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"   align = "right" width = 400 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayashankavishka&label=Profile%20views&color=0e75b6&style=flat" alt="gayashankavishka" /> </p>
 
