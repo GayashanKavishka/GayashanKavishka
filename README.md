@@ -1,4 +1,6 @@
-<p><img scr = "https://icon2.cleanpng.com/20210720/hbb/transparent-jedi-avatar-60f79bbbec84f3.6032680516268399959688.jpg"></p>
+
+
+<p><img align="center" src ="https://github.com/GayashanKavishka/GayashanKavishka/assets/167881650/07485612-cecb-44be-9207-a3f3d709e8f5" width = "100px" height = "100px"></p>
 <h1 align="center">Hi 👋, I'm Kavishka Gayashan</h1>
 <h3 align="center">Computer Science & Engineering Student | IT Passioned👨🏻‍💻🖥️📱💻 | Sri Lanka 🇱🇰</h3>
 
